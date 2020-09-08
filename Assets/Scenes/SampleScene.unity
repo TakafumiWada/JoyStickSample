@@ -828,6 +828,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   right: {fileID: 346042084}
   left: {fileID: 273354219}
+  speed: 10
 --- !u!65 &2093866302
 BoxCollider:
   m_ObjectHideFlags: 0
